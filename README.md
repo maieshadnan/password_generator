@@ -1,2 +1,2 @@
-# password_generator
-A random password generator I use!
+# Password
+A random password generator I use to sign up on sites! It's pretty good and I am satisfied from it.
